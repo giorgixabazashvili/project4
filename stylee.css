@@ -1,0 +1,245 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+}
+
+header{
+    opacity: 3px;
+    width: 100%;
+    height: 5rem;
+    background-color: rgba(23, 23, 23, 1);
+    backdrop-filter: blur(10px);
+    opacity: 90%;
+}
+.mainPhoto{
+    width: 100%;
+   margin-top: -4.6rem;
+}
+.p-0{
+    display: flex;
+    gap: 1.5rem;
+    margin-left: 0.3rem;
+   
+    
+    align-items: center;
+}
+
+.links{
+    
+     padding-top: 1.75rem;  
+    text-decoration: none;
+    color: white;
+   
+
+} 
+.toggle{
+    position: absolute; 
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 15px;
+}
+.bar{
+    height: 3px;
+    width: 65px;
+    background-color: white;
+    border-radius: 10px;
+
+}
+.bar-1{
+    height: 3px;
+    margin-left: 1.88rem;
+    width: 35px;
+    background-color: white;
+    border-radius: 10px;
+
+}
+.title{
+    display: flex;
+    justify-content: center;
+    padding-left: 5rem;
+    margin-top: 1.70rem;
+    padding-right: 2.2rem;
+    align-items: center;
+    color: white;
+    font-family: initial;
+    font-weight: 600;
+    
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: -9rem;
+   font-weight: 400;
+   font-family: initial;
+   
+   
+}
+.layoute{
+    margin-left: 1rem;
+     padding-top: 10.5rem;
+     margin-right: 1rem;  
+}
+.parent{
+    display: flex;
+    gap: 2.5rem;
+    flex-wrap: wrap;
+    /* margin-left: -38.5rem; */
+
+}
+.photo{
+    z-index: -1;
+    position: absolute;
+}
+
+
+.card-0{
+    flex-wrap: wrap; 
+    width: 22.625rem;
+    height: 8.5rem;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4 10 0;
+   
+    margin-top: 22.4rem;
+    margin-left: 1.2rem;
+    position: relative;
+    box-shadow: 0px 4px  10px 0px  gray;
+    /* box-shadow: 10px 10px 5px 10px black; */
+}
+.d-1{
+    padding-top: 2rem;
+}
+.Founder{
+    color: #AA714B;
+    text-align: center;
+    font-weight: 700;
+}
+.parent-1{
+    display: flex;
+    gap: 2.5rem;
+    padding-top: 2.5rem;
+    flex-wrap: wrap;
+}
+footer{
+    background-image: url("./3Q6A5001\ 1.png");
+    height: 16.6rem; 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    position: relative;
+    display: block;
+    margin-top: 5rem;
+
+}
+.cmb{
+    display: block;
+    margin: 0 auto;
+    border: solid 1px  #FFFFFF;
+    color: #FFFFFF;
+    border-radius: 10px;
+    width: 7rem;
+    height: 2rem;
+    font-family: inherit;
+    font-weight: 600;
+    margin-top: 1.9rem;
+    padding: 3px 2px 3px 20px;
+    background: none;
+}
+.select-div{
+    padding-top: 1.5rem;
+     text-align: center;
+     width: auto;
+     height: 50px;
+ 
+ }
+ .icons-parent{
+    height: 1rem;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    gap: 1.5rem;
+
+    p{
+        margin-left: 1.4rem;
+        color: white;
+
+    }
+    h4{
+        margin-left: -3.5rem;
+        color: white;
+        font-family: serif; 
+        font-weight: inherit;
+    }
+
+  
+}
+.icons{
+
+    margin-top: 0.5rem;
+    
+}
+
+.icons-1{
+    height: 3.3rem;
+    width: 3.3rem;
+}
+option{
+    background-color: black;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+.p-4{
+    width:6;
+}
+.pr{
+    margin-top: 0.3rem;
+}
+
+.icons-2{
+    display: flex;
+    justify-content: center;
+    margin-top: 4.5rem;
+    gap: 1rem;
+}
+
+
+.footer-loyoute{
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.name{
+    display: block;
+    margin-left: 1rem;
+    h4{
+        padding-left: 5rem;
+        padding-bottom: 0.5rem;
+    }
+   
+}
+
+.codeart{
+    color: white;
+    font-weight: 700;
+    margin-left: 1rem;
+}
+.logo{
+    font-family: Arial,  sans-serif;
+    font-size: 38px;
+    font-weight: bold;
+    color: white;
+    margin-top: -0.5rem;
+}
+.all{
+    color: white;
+    margin-left: 2.4rem;
+   margin-top: 2rem;
+}
