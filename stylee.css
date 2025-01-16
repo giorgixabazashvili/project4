@@ -201,7 +201,7 @@ option{
     width:6;
 }
 .pr{
-    margin-top: 0.3rem;
+    margin-top: 0.2rem;
 }
 
 .icons-2{
@@ -230,16 +230,20 @@ option{
     color: white;
     font-weight: 700;
     margin-left: 1rem;
+    margin-top: -0.6rem;
 }
 .logo{
     font-family: Arial,  sans-serif;
     font-size: 38px;
     font-weight: bold;
     color: white;
-    margin-top: -0.5rem;
+    margin-top: -0.9rem;
 }
 .all{
     color: white;
     margin-left: 2.4rem;
    margin-top: 2rem;
+}
+.pr-parent{
+    margin-left: -1.1rem;
 }
